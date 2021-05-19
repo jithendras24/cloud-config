@@ -1,1 +1,1 @@
-project config files
+contains project config files
