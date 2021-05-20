@@ -11,4 +11,4 @@ management:
         include:
         - "*"      
 user:
-  firstName: "Jithendra"
+  firstName: Jithendra
